@@ -1,3 +1,3 @@
-# BashBridge_mcplugin
+# BashBridge
 
 The repo of BashBridge plugin
